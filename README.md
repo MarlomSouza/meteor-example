@@ -21,7 +21,7 @@ Galaxy is the hosting platform built by the Meteor team, designed specifically f
 
 ## Live Demo
 
-Check out this example app running on Galaxy: [meteor-example.meteorapp.com](https://meteor-example.meteorapp.com)
+Check out this example app running on Galaxy: [meteor-example.meteorapp.com](https://meteor-us-example.meteorapp.com/)
 
 ## Prerequisites
 
